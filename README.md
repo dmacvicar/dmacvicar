@@ -1,9 +1,12 @@
-## Hi there 👋
+- [AUR packages](https://aur.archlinux.org/packages?O=0&SeB=m&K=dmacvicar&outdated=&SB=p&SO=d&PP=50&submit=Go) 
+
+
 
 <!--
 **dmacvicar/dmacvicar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
